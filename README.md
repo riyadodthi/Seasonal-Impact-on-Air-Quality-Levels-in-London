@@ -1,7 +1,7 @@
 # Seasonal-Impact-on-Air-Quality-Levels-in-London
 Seasonal Impact on Air Quality Levels in London: Analysis of Air Pollution Trends and Sources
 
-# Abstract—
+# Abstract
 This research project delves into the intricate interplay between seasonal variations and air quality levels within the bustling metropolis of London. The central hypothesis underpinning this study is that the cyclical changes in weather and atmospheric conditions throughout the year can significantly influence the concentrations of various air pollutants. Through a meticulous analysis of extensive historical air quality data sourced from diverse boroughs across London, an array of pollutants including PM2.5, PM10, Nitrogen oxides and SO2 are scrutinized. Concurrently, meteorological parameters encompassing temperature, humidity, global radiation and other parameters are incorporated to unravel potential underlying correlations and discernible trends.
 
 # Conclusion:
